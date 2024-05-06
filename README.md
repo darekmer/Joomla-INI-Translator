@@ -31,7 +31,7 @@
 <p>Aplikacja jest dostępna na licencji GPL.</p>
 
 <h2>Autorzy</h2>
-<p>Twój Nick lub Imię<br>ChatGPT (OpenAI)</p>
+<p>darekmer<br>ChatGPT (OpenAI)</p>
 
 <h2>Podziękowania</h2>
 <p>Specjalne podziękowania dla <a href="https://github.com/codzsword/">codzsword</a> za udostępnienie kodu bootstrap-admin-dashboard.</p>
@@ -74,7 +74,7 @@
 <p>The application is available under the GPL license.</p>
 
 <h2>Authors</h2>
-<p>Your Nickname or Name<br>ChatGPT (OpenAI)</p>
+<p>darekmer<br>ChatGPT (OpenAI)</p>
 
 <h2>Acknowledgements</h2>
 <p>Special thanks to <a href="https://github.com/codzsword/">codzsword</a> for providing the bootstrap-admin-dashboard code.</p>
