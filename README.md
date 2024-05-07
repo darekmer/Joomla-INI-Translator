@@ -81,3 +81,7 @@
 
 <h2>Disclaimer</h2>
 <p>The authors do not take any responsibility for any damages resulting from the use of this application, especially outside of a local environment.</p>
+
+![screenshot-1](screenshot-1.png)
+![screenshot-1](screenshot-2.png)
+![screenshot-1](screenshot-3.png)
